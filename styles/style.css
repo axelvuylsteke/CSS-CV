@@ -1,0 +1,119 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+    font-size: 1em;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Amatic SC', cursive;
+    font-size: 6rem;
+    color: #866ec7;
+}
+
+h2 {
+    font-family: 'Ranga', cursive;
+    font-size: 3rem;
+    color: #866ec7;
+}
+
+h3 {
+    font-family: 'Indie Flower', cursive;
+    color: #82acff;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #8f71ff;
+    border-width: 0.5rem;
+    width: 5%;
+}
+p {
+    margin: 0;
+}
+
+a {
+    color: #82acff;
+}
+
+#subtitle {
+    font-weight: normal;
+    font-size: 2rem;
+    margin-top: 0;
+}
+
+.top-container {
+    padding-top: 100px;
+    position: relative;
+    margin: 0;
+    background-color: #b7fbff;
+}
+
+.middle-container {}
+
+.bottom-container {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    background-color: #b7fbff;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.profile-picture {
+    border-radius: 100%;
+}
+.profile {
+    width: 40%;
+    margin: auto;
+    margin-bottom: 3rem;
+}
+.skill-row {
+    width: 40%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 1.5em;
+}
+.skills-languages {
+    width: 8em;
+    float: left;
+    margin-right: 30px;
+}
+.skills-testing {
+    width: 8em;
+    float: right;
+    margin-left: 30px;
+}
+.contact-me {
+    width: 50%;
+    margin: auto;
+}
+.btn {
+    display: inline-block;  
+    margin-top: 2rem;
+    background-color: #b7fbff;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border-radius: 10%;
+    text-decoration-line: none;
+}
+.footer-link{
+    text-decoration-line: none;
+    padding-left: 2rem;
+    color: #8f71ff;
+}
+.copyright {
+    color: #866ec7;
+}
